@@ -1,9 +1,10 @@
 body {
-    color: cornflowerblue;
+    background-color: lightskyblue;
 }
 
 .container {
     margin: auto 0;
+   
 }
 .center {
     text-align: center;
